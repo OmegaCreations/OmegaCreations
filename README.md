@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmegaCreations and Maks in reality
 - 👀 I’m interested in creating fun projects, using modern technologies and I love travelling.
-- 🌱 I’m currently learning three.js, blender and Japanese
-- 💞️ I’m looking to collaborate on e-cafe project directed to either coffee and anime lovers!
+- 🌱 I’m currently learning React.js, blender and Japanese (as a huge fan of japanese culture!)
+- 💞️ I’m looking to collaborate on party meeting app using Flutter!
 - 📫 How to reach me: maxwalicki@gmail.com 
 
 <!---
