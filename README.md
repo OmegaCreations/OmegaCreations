@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmegaCreations and Maks irl
 - 👀 I’m interested in creating fun projects, using modern technologies and I love travelling.
 - 🌱 I’m currently learning node.js, python and Japanese (as a huge fan of japanese culture!)
-- 💞️ I’m looking to collaborate on party meeting app using React!
 - 📫 How to reach me: maxwalicki@gmail.com 
 
 I am in love with Python :)
