@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmegaCreations and Maks irl. I'm an Applied CS student at AGH Cracow
 - 👀 I’m interested in creating fun projects, using modern technologies and I love travelling.
-- 🌱 I’m currently learning react native :^)
-- 📫 How to reach me: maxwalicki@gmail.com 
+- Don't talk to me about C or I will cry
 
 I am in love with Python :)
 
