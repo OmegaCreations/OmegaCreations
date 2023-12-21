@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Maksymialian</h1>
 <h3 align="center">This is your local IT guy.</h3>
-
+</br>
 - 🔭 I’m currently working on fullstack project - user-server connection with full API authentication [Jake(Java snake)](https://github.com/OmegaCreations/FrontendJake)
-
+</br>
 - 🌱 I’m currently learning **Java, Spring, Redux, Typescript**
-  
+  </br>
 - 💬 Ask me about **everything except for C (I will cry in core dumped)**
-  
+  </br>
 - 📫 How to reach me **maxwalicki@gmail.com**
-
+</br>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/maksymilian-walicki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/OmegaCreations" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
