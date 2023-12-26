@@ -6,7 +6,7 @@
 </br>
 - 🌱 I’m currently learning **Java, Spring, Redux, Typescript**
   </br>
-- 💬 Ask me about **everything except for C (I will cry in core dumped)**
+- 💬 Ask me about **anything except for C (I will cry in core dumped)**
   </br>
 - 📫 How to reach me **maxwalicki@gmail.com**
 </br>
