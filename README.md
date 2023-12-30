@@ -13,7 +13,7 @@
 
 <h1>
   See Jake(Java snake) - a fullastack project showcase (React.js, Redux, MongoDB, Tailwind, Java Swing, Java SpringBoot, Spring security)
-  <a href="https://www.youtube.com/watch?v=xJxztUFADpQ">VIDEO!</a>
+  <a href="https://www.youtube.com/watch?v=xJxztUFADpQ">VIDEO! █▬█ █ ▀█▀</a>
 </h1>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/maksymilian-walicki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
