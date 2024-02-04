@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Maksymilian</h1>
+<h2>Check my projects here: <a href="https://walicki.dev">Walicki.dev</a></h2>
 <h3 align="center">This is your international IT guy.</h3>
 </br>
-- 🔭 I’m currently working on portfolio website
 </br>
-- 🌱 I’m currently learning **Next.js 14**
+- 🌱 I’m currently learning <b>Next.js 14</b>
   </br>
-- 💬 Ask me about **anything except for C (I will cry in core dumped)**
+- 💬 Ask me about <b>anything except for C (I will cry in core dumped)</b>
   </br>
-- 📫 How to reach me **maxwalicki@gmail.com**
+- 📫 How to reach me <b>maxwalicki@gmail.com**</b>
 </br>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/maksymilian-walicki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
