@@ -6,7 +6,6 @@
 </br>
 - 🌱 I’m currently learning <b>Next.js 14</b>
   </br>
-- 💬 Ask me about <b>anything except for C (I will cry in core dumped)</b>
   </br>
 - 📫 How to reach me <b>maxwalicki@gmail.com**</b>
 </br>
