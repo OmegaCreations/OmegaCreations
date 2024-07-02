@@ -3,9 +3,6 @@
 <h2>Check my projects here: <a href="https://walicki.dev">Walicki.dev</a></h2>
 <h3 align="center">This is your international IT guy.</h3>
 </br>
-</br>
-- 🌱 I’m currently learning <b>Golang</b>
-  </br>
   </br>
 - 📫 How to reach me <b>maxwalicki@gmail.com**</b>
 </br>
